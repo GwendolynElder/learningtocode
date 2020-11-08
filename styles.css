@@ -1,0 +1,24 @@
+body { background-color:#FBFBF8;
+font-family: "quicksand" sans-serif;
+
+
+
+
+
+
+}
+
+hr {
+
+  border-style: dotted none none;
+  border-width: 8px;
+  border-color: #D1B4C4;
+  width: 10%;
+
+}
+h1,h2,h3 {color: #2F0D1F;
+
+}
+/*This is how you add comments in css
+
+*/
